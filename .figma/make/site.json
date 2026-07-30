@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning, personalized luxury greeting cards for special occasions, combining elegant design with heartfelt messages to cherish forever.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
