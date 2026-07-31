@@ -393,7 +393,7 @@ function MiniSparkle({ x=0,y=0,size=0.5,color='#d4a847' }:{ x?:number;y?:number;
 // ─── Together Since counter ─────────────────────────────────────────────────────
 // Change this to the date you two got together — that's what the live
 // counter below counts up from.
-const RELATIONSHIP_START = new Date(2024, 0, 1, 0, 0, 0) // Jan 1, 2024 (edit me!)
+const RELATIONSHIP_START = new Date("2025-03-04T00:00:00") // Jan 1, 2024 (edit me!)
 
 function TogetherSince() {
   const [now, setNow] = useState(() => new Date())
