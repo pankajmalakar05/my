@@ -562,29 +562,122 @@ function FrontCover() {
 function InsidePage1() {
   const letter = `Twinkle...
 
-Kuch rishte aur pyaar itna special hota hai na ki unhe shabdon me bayaan karna mushkil hota hai.... 💯❤️
+❤️ To My Twinkle ❤️
 
-Aap mere liye sirf important nahi ho, aap is poori duniya me mere liye sabse khaas ho betuuu... 🫂💗
+Har kisi ko mohabbat mil jaati hai...
+Lekin har kisi ko tum jaisi Twinkle nahi milti. 🥹❤️
 
-Pata nahi kyu par aap se baatein karke aur aapka wo pyaara sa masoom chehra dekh kar dil ko jo sukoon milta hai na, wo kahi aur mil hi nahi sakta aap ke pyaruu ko...
+Tum sirf meri mohabbat nahi ho...
+Tum meri poori duniya ho. 🌍🫀
 
-Mai khud ko bohot lucky manta hun ki aap jaisi pyaari, masoom aur nakhreli rani sahiba meri life me aayi hai.... 🥰🫀
+Jab bhi meri zindagi thak jaati hai na... bas tumhari ek muskurahat sab kuch theek kar deti hai. 🥹✨
 
-Aap mere liye sabse bada aur sabse best tohfa ho mere betuuu! 🎁❤️
+Tum meri aadat nahi ho...
+Tum meri ibaadat ho. 🤍
 
-Thankuuu aap ke un saari shararato, nakhro, ka aur dher saare pyaar ke liye bas aisee hi hamesh rahna kabhi bhi khud ko mat badalna aap jaise bhi ho best ho betuuu..
+Tum meri muskurahat ki wajah ho...
+Mere dil ki sabse khoobsurat chahat ho... ❤️
 
-Jab aap itne haq se bolti ho na ki "My Man" aur pyaruu par itna andha trust karti ho... 🙈 sach me mera dil vahi pighal jata hain 🥰✨
+I Love You sirf teen lafz nahi hain...
+Ye meri har dua hai... har ehsaas hai... aur meri poori zindagi ka waada hai. ♾️💍
 
-Mujhe pata hai mai kabhi-kabhi meri Twinkle ko pareshan bhi kar deta hun, ya aapki safety ko lekar thoda zyada tok deta hun, bas aap bache ki parwah samajh kar maaf kar diya karooo betuu but kabhi bhi mere pyaruu aap se dur nahi hoga chahe kitni hi ladaai ho jayee.... 😜
+Shukriya meri zindagi mein aane ke liye...
+Mujhe bina kisi shart ke apnane ke liye...
+Aur har haal mein mera saath nibhane ke liye. 🫂❤️
 
-Ladaai jhagda toh chalta rahega par un ladaai main bhi pyarr hota hain bas aap hamesha meri Twinkle rahoge aur mai hamesha aapka Kanu rahunga... 🫂💗
+Sach kahu...
 
-Aap mere liye kya ho, ye bas mera dil janta hai aur isko mai bayaan nahi kar sakta.
+Kuch rishte aur kuch pyaar itne special hote hain ki unhe shabdon mein bayaan karna mushkil hota hai... 💯❤️
 
-Duniya chahe jo soche, meri Twinkle mere liye best, best, best hai aur hamesha rahegi.
+Aap mere liye sirf important nahi ho...
+Aap is poori duniya mein mere liye sabse khaas ho, betuu... 🥹🫶🏻
 
-Aapki har smile par 100% haq sirf mera hai. 💯💋`
+Pata nahi kyun... par aapse baat karke aur aapka wo pyaara sa masoom chehra dekhkar jo sukoon milta hai na... wo kahin aur mil hi nahi sakta.
+
+Main khud ko duniya ka sabse lucky insaan maanta hoon...
+Kyuki meri life mein aap jaisi pyaari, masoom, caring aur nakhreli rani sahiba aayi. 👑❤️
+
+Aap meri life ka sabse khoobsurat tohfa ho. 🎁🫀
+
+Thank you meri Twinkle... ❤️
+
+Aapki har shararat ke liye...
+Har nakhre ke liye...
+Har pyaari si smile ke liye...
+Aur sabse zyada... itna pyaar dene ke liye.
+
+Bas ek promise karo...
+
+Kabhi bhi khud ko mat badalna...
+Jaisi ho... waise hi rehna...
+Kyuki meri nazar mein meri Twinkle hamesha best thi... best hai... aur hamesha best hi rahegi. 🥹🤍
+
+Jab aap itne haq se mujhe "My Man" bolti ho na... aur mujh par itna andha trust karti ho...
+Sach mein mera dil wahi pighal jaata hai. 🥹❤️
+
+Mujhe pata hai kabhi-kabhi main aapko zyada tok deta hoon...
+Kabhi safety ko lekar... kabhi health ko lekar...
+
+Par uske peeche sirf ek hi wajah hoti hai...
+
+Meri Twinkle. ❤️
+
+Main nahi chahta ki meri betuu ko kabhi bhi kisi bhi cheez ki takleef ho.
+
+Aur haan...
+
+Ladaai-jhagda to har relationship mein hota hai... 😂🤍
+
+Lekin meri ek baat yaad rakhna...
+
+Chahe kitni bhi ladaai ho jaaye...
+Mera pyaar kabhi kam nahi hoga.
+
+Aap hamesha meri Twinkle rahogi...
+Aur main hamesha aapka Pyaruu. 🫂🫀
+
+Duniya chahe kuch bhi kahe...
+
+Meri Twinkle mere liye duniya ki sabse khoobsurat ladki hai... ❤️
+
+Aur aapki har muskurahat par...
+
+100% haq sirf mere Pyaruu ka hai. 😚💋
+
+👑 My Twinkle 👑
+
+🎀 My Queen
+🫀 My Heartbeat
+🌍 My World
+🫶🏻 My Everything
+🥹 My Safe Place
+🌙 My Moon
+☀️ My Sunshine
+💎 My Diamond
+💖 My Pretty Girl
+🌸 My Pookie
+💍 Future Wifey
+♾️ Forever Mine ❤️
+
+Aur meri pyaari si...
+
+🥹 Rasmalaiii
+🍯 Honey
+🍓 Strawberry
+🍭 Lollipop
+🧁 Cupcake
+🩷 Sweetheart
+🐰 Bunny
+🐼 Panda
+🍮 Gulab Jamun
+🧡 Jalebi
+
+Bas mujhe tu chahiye... ❤️
+
+Na tere jaisi koi chahiye...
+Na tujhse behtar koi chahiye...
+
+Bas meri Twinkle chahiye... poori zindagi ke liye. 🥹🫶🏻❤️♾️
 
   const timeline=[
     { icon:'💬', label:'First Conversation' },
