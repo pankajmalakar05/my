@@ -560,9 +560,8 @@ function FrontCover() {
 // ─── Inside Page 1 ────────────────────────────────────────────────────────────
 
 function InsidePage1() {
-  const letter = `Twinkle...
-
-❤️ To My Twinkle ❤️
+  const letter = `
+ To My Twinkle...❤️❤️❤️❤️❤️❤️
 
 Har kisi ko mohabbat mil jaati hai...
 Lekin har kisi ko tum jaisi Twinkle nahi milti. 🥹❤️
